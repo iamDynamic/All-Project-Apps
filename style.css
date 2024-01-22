@@ -94,6 +94,9 @@ a:hover {
           text-decoration: underline;
           color: #fff;
 }
+#jawadhappybirthdaygift{
+    height: fit-content;
+}
 @media (max-width:812px) {
           .allapps{
                     display: grid;
